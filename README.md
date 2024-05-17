@@ -18,8 +18,6 @@ Follow these steps to install and run NovelAI Muse on your system:
    git clone https://github.com/boudywho/NovelAI-Muse.git
    ```
 
-   Replace `yourusername` with your actual GitHub username and `NovelAI-Muse` with the actual repository name you choose.
-
 2. **Navigate to the project directory:**
 
    ```bash
