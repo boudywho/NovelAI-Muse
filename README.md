@@ -57,7 +57,7 @@ Follow these steps to install and run NovelAI Muse on your system:
 7. **Configure the `bot.py` file:**
 
    Open the `bot.py` file and locate the `BOT_TOKEN` parameter. 
-   Replace `"YOUR_TELEGRAM_BOT_TOKEN"` with the token you received from BotFather.
+   Replace `YOUR_TELEGRAM_BOT_TOKEN` with the token you received from BotFather (must be included between quotes"").
 
    ```python
    BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" 
