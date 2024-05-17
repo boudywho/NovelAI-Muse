@@ -113,6 +113,10 @@ For convenience, you can set up NovelAI Muse to start automatically when your sy
 
 Now, NovelAI Muse will automatically start whenever your Arch Linux system boots. 
 
+## Using NovelAI Muse:  A Tip ✨
+
+When using the generated prompts from NovelAI Muse, remember to add your own creative ideas **before** the final quality modifiers like "best quality, amazing quality, very aesthetic, absurdres". This ensures your unique vision takes center stage!
+
 ---
 ## Future Development Plans 🚀
 
